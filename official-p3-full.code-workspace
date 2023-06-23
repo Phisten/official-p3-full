@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "official"
+	},
+	{
+		"path": "server"
+	}
+],
+  "settings": {}
+}
