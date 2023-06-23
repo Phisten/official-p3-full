@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "official": "cd ./official && next dev"
+    "official": "cd ./official && yarn next dev",
+    "server": "cd ./server && yarn strapi develop"
   },
   "dependencies": {}
 }
